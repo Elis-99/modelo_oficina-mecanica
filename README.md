@@ -8,7 +8,7 @@ Este repositório contém o diagrama Entidade-Relacionamento (ER) de um sistema 
 
 ## Diagrama ER
 
-![Diagrama ER](![modeloER_oficina](https://github.com/user-attachments/assets/76d0c2da-d70c-449a-b576-7d6e9e7abb39)
+![Diagrama ER](![modeloER_oficina](https://github.com/Elis-99/modelo_oficina-mecanica/blob/main/modeloER_oficina.png)
 )
 
 ### Legenda das Cores
